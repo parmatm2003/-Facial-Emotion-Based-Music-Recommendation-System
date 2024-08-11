@@ -1,4 +1,4 @@
-# -Facial-Emotion-Based-Music-Recommendation-System
+# Facial-Emotion-Based-Music-Recommendation-System
 SAP-FER (SAP Facial Emotion Recognition) is a custom deep learning architecture designed for real-time facial emotion recognition and personalized music recommendation. The model leverages a Convolutional Neural Network (CNN) structure combined with advanced techniques such as batch normalization and dropout layers, specifically tuned for emotion detection tasks.
 
 Key Features:
